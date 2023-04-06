@@ -1,42 +1,18 @@
+# Hello there, I'm Mohana! <img src= "https://media.tenor.com/VqGbbG0kqKAAAAAM/dakooters-anime.gif" width= "50" height= "50"> 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=MohanaMeher" /> </p>
-<p align="center">
-MOHANA MEDISETTY
-Machine Learning Engineer with Deep Learning and Data Engineering Expertise | Data Science student | Software Engineer
-
-
-<h2 align="center">Hello there 👋</h2>
-- 🔭 I’m an MS in Data Science student at University of San Francisco
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have a puppy named Light and he tries to be crazier than me
-
-<div align="center">
-  
-<a href="https://www.linkedin.com/in/mohanamedisetty/">
-  <img align="center" alt="LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:medisettymohana@gmail.com">
-  <img align="center" alt="Email" width="40px" src="https://img.icons8.com/color/48/000000/gmail--v1.png" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-<a href="https://www.codechef.com/users/mohanameher">
-  <img align="center" alt="Codechef" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
-
-</div >
-
-<br>  
-<br>  
-<div align="center">
-<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=MohanaMeher&count_private=true&show_icons=true&hide_border=true&theme=monokai" href="https://github.com/MohanaMeher"/>
-</div>
 <!--
+![image](https://user-images.githubusercontent.com/70807684/126077765-4f1f96ab-c054-4412-9f3a-1c977129a312.png)
 
--->
+<img src="https://profile-counter.glitch.me/MohanaMeher/count.svg">
+
+[![GitHub followers](https://img.shields.io/github/followers/MohanaMeher.svg?style=social&label=Followers)](https://github.com/MohanaMeher?tab=followers)
+!-->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=C0C0C0&size=30&lines=I'm+a+Software+Engineer...;I'm+an+ML+Engineer...;I'm+a+Data+Science+student)](https://git.io/typing-svg)
+
+
+![Mohana GitHub stats](https://github-readme-stats.vercel.app/api?username=MohanaMeher&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohanaMeher&theme=radical)](https://git.io/streak-stats) 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MohanaMeher)](https://github.com/ryo-ma/github-profile-trophy)
+
