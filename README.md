@@ -1,7 +1,9 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=MohanaMeher" /> </p>
 <p align="center">
-<br><img src="chilldev.gif" width="400px"><br/><br/>
+MOHANA MEDISETTY
+Machine Learning Engineer with Deep Learning and Data Engineering Expertise | Data Science student | Software Engineer
+
 
 <h2 align="center">Hello there 👋</h2>
 - 🔭 I’m an MS in Data Science student at University of San Francisco
