@@ -1,56 +1,93 @@
-# Hello there, I'm Mohana! <img src= "https://media.tenor.com/VqGbbG0kqKAAAAAM/dakooters-anime.gif" width= "50" height= "50"> 
-[LinkedIn](https://www.linkedin.com/in/mohanamedisetty/) | [GitHub](https://github.com/mohanamedisetty) | [Email](mailto:medisettymohana@gmail.com) | San Francisco, CA
-<!--
-![image](https://user-images.githubusercontent.com/70807684/126077765-4f1f96ab-c054-4412-9f3a-1c977129a312.png)
+<!-- Header -->
+<h1 align="center">🌟 Mohana Medisetty</h1>
+<p align="center"><strong>AI Alchemist | Code Sorceress</strong></p>
 
-<img src="https://profile-counter.glitch.me/MohanaMeher/count.svg">
+<!-- Highlights -->
+<h2 align="center"> Unleashing the Magic Within:🚀</h2>
 
-[![GitHub followers](https://img.shields.io/github/followers/MohanaMeher.svg?style=social&label=Followers)](https://github.com/MohanaMeher?tab=followers)
-!-->
+<!-- Potent Spells -->
+<p align="center">
+  <strong>Data Science Enchantress:</strong><br>
+  Crafting arcane analytic solutions to elevate businesses and weave enchanting user experiences.
+</p>
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=C0C0C0&size=30&lines=I'm+a+Software+Engineer...;I'm+an+ML+Engineer...;I'm+a+Data+Science+student)](https://git.io/typing-svg)
+<p align="center">
+  <strong>Machine Learning Maestro:</strong><br>
+  Mastering the art of end-to-end machine learning, breathing life into algorithms, and conjuring exceptional model accuracy.
+</p>
 
- -->
-<!-- ![Mohana GitHub stats](https://github-readme-stats.vercel.app/api?username=MohanaMeher&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohanaMeher&theme=radical)](https://git.io/streak-stats) 
+<p align="center">
+  <strong>Community Shaman:</strong><br>
+  Guiding aspiring tech wizards, instructing with wisdom, and mentoring the next generation of conjurers.
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MohanaMeher)](https://github.com/ryo-ma/github-profile-trophy)
- -->
+<p align="center">
+  <strong>Versatile Developer:</strong><br>
+  Skilled in the dark arts of full-stack development, conjuring UIs and crafting spells with code.
+</p>
+
+<p align="center">
+  <strong>Education Alchemist:</strong><br>
+  Holding the sacred scroll of a master's degree in Data Science from the University of San Francisco.
+</p>
+
+<!-- Let's Connect -->
+<h2 align="center">🌐 Let's Connect and Create Magic:</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohanamedisetty/"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" width=30 alt="LinkedIn"></a>
+  <a href="https://github.com/mohanamedisetty"><img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png" width=30 alt="GitHub"></a>
+</p>
+
+<!-- Magical Journey -->
+<h2 align="center">✨ Embark on My Magical Journey:</h2>
 
 
+<!-- Scroll of Accomplishments -->
+<p align="center">📜 **Scroll of Accomplishments:**</p>
+<p align="center">
+  - Advocating for diversity and inclusion in the enchanted realm of tech.
+  <br>
+  - Participating in women-focused hackathons, where innovation takes flight.
+  <br>
+  - Earning recognition from Facebook Developers Circle Hyderabad.
+</p>
 
+<!-- Enchanted Grimoire -->
+<h2 align="center">📚 Enchanted Grimoire:</h2>
 
-## 👩‍💻 Software + Data + Engineering
+<!-- Academic Parchment -->
+<p align="center">📜 <b>Academic Parchment:</b></p>
+<p align="center">- Master's degree in Data Science from the University of San Francisco</p>
+<p align="center">- Bachelor's degree in Computer Science from Jawaharlal Nehru Technological University</p>
 
-### Summary
-I'm Mohana Medisetty, a Software Engineer with a passion for data, software, and engineering. I specialize in leveraging machine learning and data engineering to solve complex problems. Currently, I am actively seeking roles that involve software development, data engineering, and machine learning.
+<!-- Community Scrolls -->
+<p align="center">🌍 <b>Community Scrolls:</b></p>
+<p align="center">
+  - Python Instructor for Code First Girls
+  <br>
+  - Teaching Assistant at TalentSprint
+  <br>
+  - Lead of Facebook Developers Club during my bachelor's program
+</p>
 
-### Experience Highlights
+<!-- Professional Adventure -->
+<h2 align="center">🚀 Professional Adventure:</h2>
+<p align="center">- Current Role: Software Engineer - Analytics & AI at CXApp</p>
+<p align="center">- Previous Quests: Machine Learning Engineer at Salk Institute for Biological Studies, Software Engineer at Experian, and Software Engineer at Smarter.Codes</p>
 
-- Developed an end-to-end Machine Learning pipeline for accurate synaptic count quantification using CNN-based UNet models.
-- Improved train accuracy loss from 43.05% to 3.56% on a 2D model and achieved a test accuracy loss of 4.02%.
-- Successfully extended the instance segmentation models to 3D, with a test loss of 6.3%.
-- Implemented automated data processes, reducing data dependency by 50% and improving data quality by 15%.
-- Built CI/CD pipelines with AES-256 and RSA encryption algorithms for seamless data ingestion to Kafka, Neo4j, and Elasticsearch.
-- Developed a platform enabling users to create conversational bots without coding.
-- Contributed to UI design and implemented test cases for a marketing campaign management platform.
-- Worked with Flask, MERN stack, Docker, and microservices architectures.
+<!-- Fun Fact -->
+<h2 align="center">🎉 Fun Fact:</h2>
+<p align="center">When not concocting data spells, I indulge in solving riddles, exploring the art of illusion, embarking on magical journeys, and spreading enchantment through community work. Also, I'm the proud keeper of a mischievous wizard puppy!</p>
 
-### Education
-- M.S. in Data Science, University of San Francisco
-  - Relevant courses: Deep Learning, Machine Learning, Distributed Computing, Data Systems - Spark and MongoDB, Relational Databases - PostgreSQL, Time Series Analysis, Experimentation & A/B testing, Data Structures & Algorithms, MLOps: Weights & Biases, DVC, Docker, and Kubernetes
-- B.S. in Computer Science, Jawaharlal University of Technology
-  - Relevant courses: Object Oriented Programming through Java, Data Structures & Algorithms through C++, SQL, and Python Programming for Data Science, Data Mining, Software Engineering, Cloud Computing
+<!-- Discover More -->
+<h2 align="center">🌟 Explore My Magical Realm:</h2>
+<p align="center">
+  <a href="https://yourwebsite.com">🏰 Website</a> |
+  <a href="https://yourportfolio.com">📜 Portfolio</a> |
+  <a href="https://www.linkedin.com/in/mohanamedisetty/">💼 LinkedIn</a>
+</p>
 
-### Technical Skills
-- Data Science and Machine Learning: Python, Numpy, Pandas, Matplotlib, Deep Learning, Computer Vision, Pytorch, Clustering, SparkML, NLP
-- Data Engineering: Apache Airflow, Apache Kafka, Elasticsearch, Kibana, Hive, Jenkins, Apache Spark, SQL, GCS
-- Web Development: NodeJS, React, MongoDB, HTML, CSS, Bootstrap, Sass, MariaDB
-- Miscellaneous: Beautiful Soup, Selenium, R, Power BI, Agile, Flask, AWS, Bitbucket, Git, Pygame
-
-### Achievements
-- Winner of HerTech Hackathon - National Women-Led Hackathon in AI presented by Facebook
-- Awarded titles of "Community Ninja" and "Devanger" of the year 2020-21 for active technical contributions
-
-### Let's Connect!
-I'm excited to bring my expertise in software, data, and engineering to contribute to your team's success. Feel free to reach out via email or connect with me on LinkedIn. Let's collaborate and drive innovation together!
+<!-- Outro -->
+<h2 align="center">🧙‍♀️ Let's Shape the Future with Magic!</h2>
+<p align="center">Together, we shall conjure a brighter tech world, one line of code at a time!</p>
