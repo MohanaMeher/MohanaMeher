@@ -60,12 +60,12 @@
 <p align="center"><b>Jawaharlal Nehru Technological University - Bachelor's degree, Computer Science</b></p>
 
 <!-- Discover More -->
-<h2 align="center">🌟 Explore My Professional Realm:</h2>
-<p align="center">
-<!--   <a href="https://yourwebsite.com">🏰 Website</a> |
-  <a href="https://yourportfolio.com">📜 Portfolio</a> | -->
+
+<!-- <p align="center">
+  <a href="https://yourwebsite.com">🏰 Website</a> |
+  <a href="https://yourportfolio.com">📜 Portfolio</a> |
   <a href="https://www.linkedin.com/in/mohanamedisetty/">💼 LinkedIn</a>
-</p>
+</p> -->
 
 <!-- Outro -->
 <h2 align="center">🧙‍♀️ Let's Shape the Future Together!</h2>
