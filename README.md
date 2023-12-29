@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">🌟 Mohana Medisetty</h1>
+<h1 align="center"> Mohana Medisetty</h1>
 <p align="center"><strong>Lead Engineer | AI, Software Development, and Data Science Enthusiast</strong></p>
 
 <!-- Professional Overview -->
@@ -62,8 +62,8 @@
 <!-- Discover More -->
 <h2 align="center">🌟 Explore My Professional Realm:</h2>
 <p align="center">
-  <a href="https://yourwebsite.com">🏰 Website</a> |
-  <a href="https://yourportfolio.com">📜 Portfolio</a> |
+<!--   <a href="https://yourwebsite.com">🏰 Website</a> |
+  <a href="https://yourportfolio.com">📜 Portfolio</a> | -->
   <a href="https://www.linkedin.com/in/mohanamedisetty/">💼 LinkedIn</a>
 </p>
 
